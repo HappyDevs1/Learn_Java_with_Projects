@@ -7,6 +7,6 @@ public class Exercise3_1 {
 
     double average = dino1 + dino2;
 
-    System.out.println("Average weight of dinosaurs: " + average / 2);
+    System.out.println("Average weight of dinosaurs: " + average / 2 + " kg.");
   }
 }
