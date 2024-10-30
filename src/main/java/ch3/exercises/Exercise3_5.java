@@ -7,6 +7,6 @@ public class Exercise3_5 {
 
     int getOlderDino = (dino1Age > dino2Age) ? (dino1Age - dino2Age) : (dino2Age - dino1Age);
 
-    System.out.println(getOlderDino);
+    System.out.println("The age difference between the 2 dinosaurs is: " + getOlderDino);
   }
 }
